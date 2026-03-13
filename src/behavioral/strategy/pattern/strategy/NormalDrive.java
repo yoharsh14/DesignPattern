@@ -1,4 +1,4 @@
-package behavioraldesignpattern.strategy;
+package behavioral.strategy.pattern.strategy;
 
 public class NormalDrive implements DriveStrategy{
     @Override

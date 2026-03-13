@@ -1,8 +1,8 @@
-package behavioraldesignpattern;
+package behavioral.strategy.pattern;
 
-import behavioraldesignpattern.strategy.NormalDrive;
-import behavioraldesignpattern.strategy.SpecialDrive;
-import behavioraldesignpattern.strategy.SportyDrive;
+import behavioral.strategy.pattern.strategy.NormalDrive;
+import behavioral.strategy.pattern.strategy.SpecialDrive;
+import behavioral.strategy.pattern.strategy.SportyDrive;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package behavioraldesignpattern;
+package behavioral.strategy.pattern;
 
 public class OffRoadVehicle {
     Vehicle vehicle;

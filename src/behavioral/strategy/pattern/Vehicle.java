@@ -1,6 +1,6 @@
-package behavioraldesignpattern;
+package behavioral.strategy.pattern;
 
-import behavioraldesignpattern.strategy.DriveStrategy;
+import behavioral.strategy.pattern.strategy.DriveStrategy;
 
 public class Vehicle {
     DriveStrategy driveStrategy;
